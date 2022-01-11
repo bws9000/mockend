@@ -1,7 +1,7 @@
 {
   "Post":{
     "id": { "string": {} },
-    "img": { "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080" },
+    "img": { "regexp": "https://picsum\\.photos/seed/[0-9]{5}/600/600" },
     "date": { "dateTime": { "min": "2010-01-01T00:00:00Z", "max": "2020-12-31T23:59:59Z"}},
     "title": { "string": {} },
     "seller_thumb": { "regexp": "https://i\\.pravatar\\.cc/150?u=[0-9]{5}" },
